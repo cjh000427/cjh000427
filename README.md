@@ -8,6 +8,6 @@
 
 ---
 
-<img src="https://www.7thpizza.com/files/MENU/3F6493546AEC446B980E975410DFB1EB.jpg" alt="pic">
+
 
 
